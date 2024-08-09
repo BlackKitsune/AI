@@ -36,3 +36,4 @@
 ![image](https://github.com/user-attachments/assets/46c470be-3a60-45c3-a80d-2ad83b999971)
 - AI has many tools: Unsupervised learning, reinformcement learning, graphical models, planning, knowledge graph...
 ### What makes an AI company?
+- Rise of the Internet: A lesson from the rise of the internet is that a shopping mall with a website does not make an Internet company. An Internet company is a company that 
