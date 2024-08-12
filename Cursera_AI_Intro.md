@@ -81,8 +81,11 @@
   ![image](https://github.com/user-attachments/assets/ff7f37db-b21e-44f7-a5e4-78d3e5c4ebfc)
   - To make a NN you feed it with a lot of the data and deduce what is the appropiate layer of the sentiments to output the demand
   ![image](https://github.com/user-attachments/assets/9e478a24-ad3b-4617-ac31-e94fc832956f)
+- Example on image recognition: Recognition of people of pictures and understand who is in the image.
+  - The machine understand the values in each pixel and how bright it is so it translates the picture to a map of brightnes
+  - In the NN in this case the combinations of the neuros is very high as it will combine all of them in different iterations.
+  - On each iteration will identify more patterns of the face of the person and at the end will itdentify the person.
+  ![image](https://github.com/user-attachments/assets/679efecd-40df-41ce-acaa-b18efa93210e)
 
 
-  
-  - 
 
