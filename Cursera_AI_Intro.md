@@ -36,4 +36,12 @@
 ![image](https://github.com/user-attachments/assets/46c470be-3a60-45c3-a80d-2ad83b999971)
 - AI has many tools: Unsupervised learning, reinformcement learning, graphical models, planning, knowledge graph...
 ### What makes an AI company?
-- Rise of the Internet: A lesson from the rise of the internet is that a shopping mall with a website does not make an Internet company. An Internet company is a company that 
+- Rise of the Internet: A lesson from the rise of the internet is that a shopping mall with a website does not make an Internet company. An Internet company is a company that does the things that internet very well:
+  - A/B testing
+  - Short iteration time
+  - Decision making pushed down to engineers and other specialized roles
+- Rise of the AI: Any company + deep learning doesnt make a AI company. AI company are good a:
+  - Strategic data adquisition (even if it does not provide wealth inmediatly)
+  - Unified data warehouse (data in one place) subject to private garantees.
+  - Pervasive automation
+  - New roles (MLE Machine learnging Engineer) and division of labor
