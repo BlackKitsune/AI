@@ -70,3 +70,19 @@
   - (+) Leaning a simple concept and there is a lot of data available
   - (-) Learning complex concepts from small amounts of data
   - (-) It is asked to perform on new types of data (the image is tilted or there are some inperfections for example)
+### Non-technical explanation of DL
+- Example on demand prediction: How to price the Tshirts based on demand (the higher the price the lower the demand)
+  - A(price) --> () --> B(demand)
+  - A neuron () would compute at to what point we can increase the price
+  ![image](https://github.com/user-attachments/assets/9a2bc3e1-3152-4e7e-aa57-a9bd6b80700c)
+  - Increasing complexity of the problem with more input variables (price, shiping cost, marketing, material)
+  - One first step will be analyze the sentiment of the client (Affordability, awareness, percived quality) and take note that not all the inputs are going to all the sentiments in the second layer.
+  - The ouput will be the demand
+  ![image](https://github.com/user-attachments/assets/ff7f37db-b21e-44f7-a5e4-78d3e5c4ebfc)
+  - To make a NN you feed it with a lot of the data and deduce what is the appropiate layer of the sentiments to output the demand
+  ![image](https://github.com/user-attachments/assets/9e478a24-ad3b-4617-ac31-e94fc832956f)
+
+
+  
+  - 
+
