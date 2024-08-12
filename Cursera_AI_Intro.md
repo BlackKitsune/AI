@@ -50,5 +50,23 @@
   2. Build an in-house AI team
   3. Provide broad AI training (not only to engineers but to supervisors, executives and liders)
   4. Develop an AI strategy
-  5. Develop internal and externa communication (All interested teams, from employees to investors and clients ara informed of how the company is assimilating the AI growth)
-  
+  5. Develop internal and externa communication (All interested teams, from employees to investors and clients ara informed of how the company is assimilating the AI growth).
+### What ML (AI) can and cannot do
+- CAN DO: Anything you can do with 1 second of thought, we can probably now or soon automate.
+  - Self driving car (A:Image, radar, lidar --> B: Position Cars around)
+  - X-Ray diagnosis of pneumonia (A: Image labeled --> B: yes or no)
+- CANNOT DO: Something complex
+  - Analyze the market and write a 50 page report for example.
+  - Self driving car: Interpret the intention of a human gesturing at your car (stop of police, bike turn signal) because there is not enough data and it needs high accuracy.
+  - X-Ray diagnosis of neumonia: Diagnose pneumonia from 10 images of medical textbook chapter explaining pneumonia.
+- Problems associated with very complex problems like write an automatic response to an email:
+  - Not enought data as example to train the output
+  - It can develope the same response for all cases
+  - It can make a wrong sentence
+- What makes a ML problem easier:
+  - Learning a "simple" concept (something that takes some seconds for a humans)
+  - Lots of data available
+- Strenghts and weakneses of ML:
+  - (+) Leaning a simple concept and there is a lot of data available
+  - (-) Learning complex concepts from small amounts of data
+  - (-) It is asked to perform on new types of data (the image is tilted or there are some inperfections for example)
