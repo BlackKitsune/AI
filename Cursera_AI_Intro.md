@@ -45,3 +45,10 @@
   - Unified data warehouse (data in one place) subject to private garantees.
   - Pervasive automation
   - New roles (MLE Machine learnging Engineer) and division of labor
+- AI Transformation for companies:
+  1. Execute pilot projects to gain momentum (small projects in/out house to understand what AI can do for you)
+  2. Build an in-house AI team
+  3. Provide broad AI training (not only to engineers but to supervisors, executives and liders)
+  4. Develop an AI strategy
+  5. Develop internal and externa communication (All interested teams, from employees to investors and clients ara informed of how the company is assimilating the AI growth)
+  
