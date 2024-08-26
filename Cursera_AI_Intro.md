@@ -125,6 +125,59 @@ Examples of how you can Apply both DS and optimize the performance in different 
 ![image](https://github.com/user-attachments/assets/7baf26be-b149-49c7-bbe8-8f1c621bd170)
 ![image](https://github.com/user-attachments/assets/ed685490-ae34-4cf4-95f0-d10e55c9df70)
 
+### How to choose and AI project
+Select projects that are at the intersection of "What AI can do" (they can be done with AI) and "Valuable for your business".
+One is controled by AI expert and the other by domain experts, so the best team would be one of the two sides that find the projects at the intersection of the two --> Cross-functional teams.
+![image](https://github.com/user-attachments/assets/eceec2f9-ff01-460b-850d-7c9b5742c974)
+
+#### Braimstorming framework
+- Think about autmating tasks rather than automating jobs (Eg. call center routing, radiologists,...) Take and specifict action of one job.
+- What are the main drivers of business value?
+- What are the main pain points in your business? Can they be solved with AI
+
+#### You can make progress even without big data
+- Having more data almost never hurts
+- Data makes some businesses (like web search) defensible.
+- But with small datasets, you can still make progress (like the automated defective coffe mug detection, with some images you can start training your ML project)
+
+#### How can you make sure you ar in a good AI project?
+- Due diligence on project (before start the project): Spend some time verifying that what you want to do can be done with AI and it is valuable for your business.
+- Create a spread sheet that points to the money or benefits that you can save.
+  - Technical diligence: The AI system is doable (feasible)
+      - Can AI system meet desired performace
+      - How much data is needed and do you have a way to have that much data
+      - Engineering timeline: How many people do I need?
+  - Business diligence: The envisioned project is valuable for the business
+      - Lower cost: The AI value is brought by lowering cost atomatizing or making some systems more efficient.
+      - Increase revenue: Driving more people to checkout in the shoping chart.
+      - Launch new product or business
+  - Ethical diligence: AI can do things that do not make humanity better.
+![image](https://github.com/user-attachments/assets/7e18e411-576b-4826-9a3f-a598076d6f3a)
+
+#### Build vs. Buy
+- ML can be in-house or outsourced
+- DS projects are more commonly in-house (they need a very close view of the company)
+- Some things will be industry standard - avoid building those (buy those)
+
+### Working with an AI team
+- Specify your acceptance criteria for the project
+    - Example: Goal is to detect defects with 95% accuracy.
+        - TEST SET: Define accuracy for the team --> Provide AI team a dataset on which to measure their performance
+        - Performance is specified statistically (95% accuracy) or it can be on average
+- How AI teams think about data
+    - Training set (input to train the ML algorithm and learn A->B) >> Test set
+    - Test set (different from training set to test the accuracy of the algorithm)
+    - Test set 2 = Validation set
+- Pitfall: Expecting 100% accuracy
+    - Limitations of ML
+    - Insufficient data (training data) --> collect more data
+    - Mislabeled data  --> clean the data
+    - Ambigous labels --> clean the data
+  
+           
+
+
+
 
 
 
