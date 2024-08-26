@@ -172,7 +172,14 @@ One is controled by AI expert and the other by domain experts, so the best team 
     - Limitations of ML
     - Insufficient data (training data) --> collect more data
     - Mislabeled data  --> clean the data
-    - Ambigous labels --> clean the data
+    - Ambigous labels --> clean the data\
+
+## AI technical tools
+- Machine learning open source frameworks (TensorFlow, PyTorch, Keras, MXNet, CNTK, Caffe, PaddlePaddle, Scikit-Learn, R, Weka)
+- Research publications (Arxiv)
+- Open source repositories (GitHub) Double check the licenses before using it
+- CPU vs. GPU: Computer processor (Central Processing Unit) vs. Graphics Processing Unit (very powerfull for large NN)
+- Cloud vs. On-premises: Use the servers outside (AWS, Azure, ...) or your local server --> It can be an Edge processor like the self driving cars, that need to have the deccision in real time on the place by reducing the amount of data that you send over the cloud.
   
            
 
