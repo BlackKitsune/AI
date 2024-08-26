@@ -87,5 +87,49 @@
   - On each iteration will identify more patterns of the face of the person and at the end will itdentify the person.
   ![image](https://github.com/user-attachments/assets/679efecd-40df-41ce-acaa-b18efa93210e)
 
+## Buiding AI projects
+- Starting an AI project
+  - Workflow of projects
+  - Selecting AI projects
+  - Organizing data and team for the projects
+
+### Workflow of ML project
+- Example: Speech recognition
+  1. Collect the data: A (you): "Hello Siri" --> B (Siri): "Hello"
+  2. Train the model: Iterate many time until is good enough
+  3. Deploy model: Get data back and maintain/update model
+- Example: Self-driving car (where are the other cars in an image
+  1. Collect the data: A (image) --> B (Position of other cars)
+  2. Train the model: Iterate many time until is good enough in recognizing the cars and not other elements in the image.
+  3. Deploy model: Get data back and maintain/update model (safety is the most important for the model)
+
+### Workflow of DS project
+- Example: Optimizing a sale funnel (visit web -> take product -> Shoping cart -> Checkout)
+  1. Collect data: Every sell is stored as estructured data (ID | Country | Date - Time | Webpage)
+  2. Analyze data: What is affecting the performance of the products? data scientist interprets the data. Do the buy more during holiday season, is during the day or night? --> Iterate many times to get good insights.
+  3. Suggest hypotheses/actions:
+      - Deploy changes
+      - Reanalyze new data periodically and come with new and better hypothesis
+- Example: Optimizing a manufacturing line (Mix clay -> Shape mug -> Add glaze -> Fire kiln -> Final inspection)
+  1. Collect data: What kind of clay did you use and who suply it (Clay type | Supplier | Mixing time | Humidity | T kiln | Duration kiln)
+  2. Analyze data: When the humidity is to low and T is high... you have to adjust the T in the room depending on season --> Iterate many times to get good insights.
+  3. Suggest hypotheses/actions:
+      - Deploy changes
+      - Reanalyze new data periodically and come with new and better hypothesis
+
+### Every job functions needs to learn how to use data
+Examples of how you can Apply both DS and optimize the performance in different scenarios:
+![image](https://github.com/user-attachments/assets/d2d8a90b-12d7-4045-82ae-7af055dc196c)
+![image](https://github.com/user-attachments/assets/7c6bee47-0457-4db5-b1cc-9f05b18b10e4)
+![image](https://github.com/user-attachments/assets/d37b0059-182d-492c-9cea-983769b5971d)
+![image](https://github.com/user-attachments/assets/7baf26be-b149-49c7-bbe8-8f1c621bd170)
+![image](https://github.com/user-attachments/assets/ed685490-ae34-4cf4-95f0-d10e55c9df70)
+
+
+
+
+
+
+
 
 
